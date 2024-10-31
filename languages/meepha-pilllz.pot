@@ -1,0 +1,70 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pilllz Avatars\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-13 14:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: meepha-pilllz"
+
+#: meepha-pilllz.php:99
+msgid "Activate Pilllz Avatars"
+msgstr ""
+
+#: meepha-pilllz.php:107
+msgid "API Client ID"
+msgstr ""
+
+#: meepha-pilllz.php:103
+msgid "API Key"
+msgstr ""
+
+#: meepha-pilllz.php:103 meepha-pilllz.php:107
+msgid ""
+"Coming soon : will unlock new features but will need registration on pilllz."
+"meepha.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://meepha.com/"
+msgstr ""
+
+#: meepha-pilllz.php:183
+msgid "Loading..."
+msgstr ""
+
+#. Author of the plugin
+msgid "meepha"
+msgstr ""
+
+#. Name of the plugin
+#: meepha-pilllz.php:47 meepha-pilllz.php:48 meepha-pilllz.php:90
+msgid "Pilllz Avatars"
+msgstr ""
+
+#. Description of the plugin
+msgid "Replace your Gravatar by Pilllz avatars !"
+msgstr ""
+
+
+
+#. Edit your Pilllz button
+msgid "Edit your Pilllz"
+msgstr ""
+
+#. meepha-pilllz.php:196
+msgid "Pilllz is active, all gravatars will be replaced by random Pilllz avatars. If you wish to enable the avatar editor please register to obtain your API key and Client ID."
+msgstr ""
+
+#. meepha-pilllz.php:247
+msgid "Randomly generated profile picture by Pilllz."
+msgstr ""

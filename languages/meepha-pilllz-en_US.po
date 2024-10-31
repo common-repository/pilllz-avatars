@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pilllz Avatars\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-13 14:06+0000\n"
+"PO-Revision-Date: 2023-03-13 14:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: meepha-pilllz"
+
+msgctxt "/wp-content/plugins/meepha-pilllz/meepha-pilllz.php ligne 100"
+msgid "Activate Pilllz Avatars"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://meepha.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "meepha"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pilllz Avatars"
+msgstr ""
+
+#. Description of the plugin
+msgid "Replace your Gravatar by Pilllz avatars !"
+msgstr ""
